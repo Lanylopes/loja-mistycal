@@ -1,2 +1,2 @@
 # loja-mistycal
- Site desenvolvido para as aulas de PW1
+ Site desenvolvido na disciplina PW1
